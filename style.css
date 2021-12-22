@@ -1,0 +1,19 @@
+body {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+button{
+  margin-top: 20px;
+  font-size: 40px;
+  background-color:black;
+  color:white;
+  border-radius: 10px;
+}
+button:hover{
+  background-color:grey;
+  color:black;
+}
